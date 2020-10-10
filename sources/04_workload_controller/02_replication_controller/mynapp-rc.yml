@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: mynapp
-        image: c1t1d0s7/myweb
+        image: goldrako/myweb
         ports:
         - containerPort: 8080
